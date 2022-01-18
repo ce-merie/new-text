@@ -1,0 +1,85 @@
+p{
+    display: block;
+    border: 1px sohlid rebeccapurple;
+}
+
+.First-Box,
+.Second-Box{
+display: block;
+padding: 15px;
+margin: 40px;
+
+
+}
+
+.First-Box{
+border: 5px solid rebeccapurple;
+height: 150px;
+width: 300px;
+
+}
+
+.Second-Box{
+box-sizing: border-box;
+border: 5px solid orange;
+height: 75px;
+width: 200px;
+
+
+}
+
+.Big-Box{
+    border:  solid  2px yellowgreen;
+    margin: 0px auto 100px;
+    width: 450px;
+
+}
+
+.Small-Box{
+display: inline-block;
+border: 2px solid rebeccapurple;
+background-color: lightblue;
+padding: 7px;
+margin: 10px;
+
+
+}
+
+.Navbar a {
+display: inline-block;
+border: 2px solid red;
+padding: 8px;
+margin: 10px;
+text-decoration: none;
+
+
+}
+
+
+h2{
+background-color: rgb(108, 117, 202);
+padding: 4px 15px;
+width: 250px;
+margin: 0px  auto;
+margin-bottom: -1px;
+border: 1px solid black;
+font-family: "Open Sans", sans-serif;
+
+
+
+}
+
+.text{
+background-color: white;
+border: 1px  solid black;
+padding: 4px 15px;
+width: 250px;
+margin: 0 auto;
+font-family: "Open Sans", sans-serif;
+text-align: center;
+
+
+
+
+
+}
